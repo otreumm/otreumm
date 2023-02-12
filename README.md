@@ -6,10 +6,8 @@
         </h3>
 </div>
         
-          Learning :
-          Mysql
-          PhP
-          C#
           
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="30" heigth="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" heigth="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" heigth="40"/>
+   <img src="" title="HTML" alt="HTML" width="30" heigth="40"/>
